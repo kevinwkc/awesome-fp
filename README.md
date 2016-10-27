@@ -30,7 +30,6 @@ Navigation: [Books](#books) | [Courses](#courses) | [Libraries](#libraries) | [P
 * [Extensible Effects - An Alternative to Monad Transformers](http://okmij.org/ftp/Haskell/extensible/exteff.pdf) by Oleg Kiselyov
 * [Freer Monads, More Extensible Effects](http://okmij.org/ftp/Haskell/extensible/more.pdf) by Oleg Kiselyov
 * [Generics of a Higher Kind](https://adriaanm.github.io/files/higher.pdf) by Adriaan Moors, Frank Piessens and Martin Odersky
-* [Safe Type-level Abstraction in Scala](https://adriaanm.github.io/files/scalina-final.pdf) by Adriaan Moors, Frank Piessens and Martin Odersky
 * [The Yoneda Lemma](http://adamtopaz.com/files/teaching/250S15/yoneda.pdf) by Adam Topaz
 
 ## Talks
