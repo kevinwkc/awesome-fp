@@ -51,6 +51,6 @@ Navigation: [Books](#books) | [Courses](#courses) | [Libraries](#libraries) | [P
 ### Type-Level Programming in Scala
 
 * [The Neophyte's Guide to Scala Part 12: Type Classes](http://danielwestheide.com/blog/2013/02/06/the-neophytes-guide-to-scala-part-12-type-classes.html) - 6 Feb 2013
-* [Type-Level Programming in Scala](https://apocalisp.wordpress.com/2010/06/08/type-level-programming-in-scala) - 8 Jun 2010
 * [Demystifying Implicits and Typeclasses in Scala](http://www.cakesolutions.net/teamblogs/demystifying-implicits-and-typeclasses-in-scala) - 1 Oct 2015
 * [Type Level Programming in Scala - Step By Step](http://gigiigig.github.io/tlp-step-by-step/introduction.html) - 19 Oct 2015
+* [Type-Level Programming in Scala](https://apocalisp.wordpress.com/2010/06/08/type-level-programming-in-scala) - 8 Jun 2010
