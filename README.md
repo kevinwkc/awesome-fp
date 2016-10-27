@@ -1,5 +1,7 @@
 # Awesome Functional Programming
 
+My personal adventurer's log in the land of functional programming.
+
 Navigation: [Books](#books) | [Courses](#courses) | [Libraries](#libraries) | [Papers](#papers) | [Talks](#talks) | [Tutorials](#tutorials)
 
 ## Books
