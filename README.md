@@ -27,6 +27,7 @@ Navigation: [Books](#books) | [Courses](#courses) | [Libraries](#libraries) | [P
 ## Papers
 
 * [A Tutorial Introduction to the Lambda Calculus](http://www.inf.fu-berlin.de/lehre/WS03/alpi/lambda.pdf) by Raul Rojas
+* [Dependent Object Types](http://lampwww.epfl.ch/~amin/dot/fool.pdf) by Nada Amin, Adrian Moors and Martin Odersky
 * [Extensible Effects - An Alternative to Monad Transformers](http://okmij.org/ftp/Haskell/extensible/exteff.pdf) by Oleg Kiselyov
 * [Freer Monads, More Extensible Effects](http://okmij.org/ftp/Haskell/extensible/more.pdf) by Oleg Kiselyov
 * [Generics of a Higher Kind](https://adriaanm.github.io/files/higher.pdf) by Adriaan Moors, Frank Piessens and Martin Odersky
