@@ -27,11 +27,9 @@ Navigation: [Books](#books) | [Courses](#courses) | [Libraries](#libraries) | [P
 ## Papers
 
 * [A Tutorial Introduction to the Lambda Calculus](http://www.inf.fu-berlin.de/lehre/WS03/alpi/lambda.pdf) by Raul Rojas
-* [Dependent Object Types](http://lampwww.epfl.ch/~amin/dot/fool.pdf) by Nada Amin, Adrian Moors and Martin Odersky
 * [Extensible Effects - An Alternative to Monad Transformers](http://okmij.org/ftp/Haskell/extensible/exteff.pdf) by Oleg Kiselyov
 * [Freer Monads, More Extensible Effects](http://okmij.org/ftp/Haskell/extensible/more.pdf) by Oleg Kiselyov
 * [Generics of a Higher Kind](https://adriaanm.github.io/files/higher.pdf) by Adriaan Moors, Frank Piessens and Martin Odersky
-* [The Yoneda Lemma](http://adamtopaz.com/files/teaching/250S15/yoneda.pdf) by Adam Topaz
 
 ## Talks
 
@@ -40,7 +38,6 @@ Navigation: [Books](#books) | [Courses](#courses) | [Libraries](#libraries) | [P
 * [Roll your own Shapeless](https://vimeo.com/165837504) by Daniel Spiewak
 * [The Eff monad, one monad to rule them all](https://vimeo.com/165927840) by Eric Torreborre
 * [Type-driven development in Idris](https://vimeo.com/128466883) by Edwin Brady
-* [DOT calculus](https://www.youtube.com/watch?v=b7AokpvwzgI) by Nada Amin
 
 ## Tutorials
 
@@ -48,7 +45,6 @@ Navigation: [Books](#books) | [Courses](#courses) | [Libraries](#libraries) | [P
 * [FP for the average Joe - II - ScalaZ Monad Transformers](http://www.47deg.com/blog/fp-for-the-average-joe-part-2-scalaz-monad-transformers) - 26 May 2015
 * [Understanding Free Monads](http://perevillega.com/understanding-free-monads) - 28 May 2016
 * [Free Monads using FreeK](http://perevillega.com/freek-and-free-monads) - 30 May 2016
-* [Understanding Yoneda](https://bartoszmilewski.com/2013/05/15/understanding-yoneda) - 15 May 2013
 
 ### Type-Level Programming in Scala
 
