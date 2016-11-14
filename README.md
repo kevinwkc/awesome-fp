@@ -50,6 +50,7 @@ Navigation:
 * [Roll your own Shapeless](https://vimeo.com/165837504) by Daniel Spiewak
 * [The Eff monad, one monad to rule them all](https://vimeo.com/165927840) by Eric Torreborre
 * [Type-driven development in Idris](https://vimeo.com/128466883) by Edwin Brady
+* [Propositions as Types](https://www.youtube.com/watch?v=IOiZatlZtGU) by Philip Wadler
 
 ## Tutorials
 
