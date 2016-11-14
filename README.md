@@ -56,14 +56,14 @@ Navigation:
 * [A Little Guide on Using Futures for Web Developers](http://codemonkeyism.com/a-little-guide-on-using-futures-for-web-developers) - 15 Sep 2015
 * [FP for the average Joe - II - ScalaZ Monad Transformers](http://www.47deg.com/blog/fp-for-the-average-joe-part-2-scalaz-monad-transformers) - 26 May 2015
 
-### Free Monads
+#### Free Monads
 
 * [A Modern Architecture for FP](http://degoes.net/articles/modern-fp) - 28 Dec 2015
 * [Modern Functional Programming: Part 2](http://degoes.net/articles/modern-fp-part-2) - 27 Sep 2016
 * [Understanding Free Monads](http://perevillega.com/understanding-free-monads) - 28 May 2016
 * [Free Monads using FreeK](http://perevillega.com/freek-and-free-monads) - 30 May 2016
 
-### Type-Level Programming in Scala
+#### Type-Level Programming in Scala
 
 * [The Neophyte's Guide to Scala Part 12: Type Classes](http://danielwestheide.com/blog/2013/02/06/the-neophytes-guide-to-scala-part-12-type-classes.html) - 6 Feb 2013
 * [Demystifying Implicits and Typeclasses in Scala](http://www.cakesolutions.net/teamblogs/demystifying-implicits-and-typeclasses-in-scala) - 1 Oct 2015
