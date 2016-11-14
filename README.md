@@ -28,7 +28,7 @@ Navigation:
 ## Libraries
 
 * [cats](http://typelevel.org/cats) - Lightweight, modular, and extensible library for functional programming.
-* [eff-cats](https://github.com/atnos-org/eff-cats) - Eff monad for cats.
+    * [eff-cats](https://github.com/atnos-org/eff-cats) - Eff monad for cats.
 * [emm](https://github.com/djspiewak/emm) - A general monad for managing stacking effects.
 * [doobie](https://github.com/tpolecat/doobie) - Principled database access for Scala.
 * [fetch](https://github.com/47deg/fetch) - Simple & Efficient data access for Scala and Scala.js.
