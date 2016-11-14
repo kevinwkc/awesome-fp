@@ -11,7 +11,7 @@ Navigation:
 * [Talks](#talks)
 * [Tutorials](#tutorials)
     * [Free Monads](#free-monads)
-    * [Type Level Programming in Scala)(#type-level-programming-in-scala)
+    * [Type Level Programming in Scala](#type-level-programming-in-scala)
 
 ## Books
 
