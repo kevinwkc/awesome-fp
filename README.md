@@ -2,7 +2,16 @@
 
 My personal adventurer's log in the land of functional programming.
 
-Navigation: [Books](#books) | [Courses](#courses) | [Libraries](#libraries) | [Papers](#papers) | [Talks](#talks) | [Tutorials](#tutorials)
+Navigation: 
+
+* [Books](#books)
+* [Courses](#courses)
+* [Libraries](#libraries)
+* [Papers](#papers)
+* [Talks](#talks)
+* [Tutorials](#tutorials)
+    * [Free Monads](#free-monads)
+    * [Type Level Programming in Scala)(#type-level-programming-in-scala)
 
 ## Books
 
@@ -46,6 +55,11 @@ Navigation: [Books](#books) | [Courses](#courses) | [Libraries](#libraries) | [P
 
 * [A Little Guide on Using Futures for Web Developers](http://codemonkeyism.com/a-little-guide-on-using-futures-for-web-developers) - 15 Sep 2015
 * [FP for the average Joe - II - ScalaZ Monad Transformers](http://www.47deg.com/blog/fp-for-the-average-joe-part-2-scalaz-monad-transformers) - 26 May 2015
+
+### Free Monads
+
+* [A Modern Architecture for FP](http://degoes.net/articles/modern-fp) - 28 Dec 2015
+* [Modern Functional Programming: Part 2](http://degoes.net/articles/modern-fp-part-2) - 27 Sep 2016
 * [Understanding Free Monads](http://perevillega.com/understanding-free-monads) - 28 May 2016
 * [Free Monads using FreeK](http://perevillega.com/freek-and-free-monads) - 30 May 2016
 
