@@ -25,6 +25,7 @@ Navigation: [Books](#books) | [Courses](#courses) | [Libraries](#libraries) | [P
 * [fetch](https://github.com/47deg/fetch) - Simple & Efficient data access for Scala and Scala.js.
 * [freek](https://github.com/ProjectSeptemberInc/freek) - A freaky simple `Free` to combine your DSL seamlessly.
 * [hamsters](https://github.com/scala-hamsters/hamsters) - A mini Scala utility library.
+* [scalacaster](https://github.com/vkostyukov/scalacaster) - Purely Functional Algorithms and Data Structures in Scala.
 
 ## Papers
 
