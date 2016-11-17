@@ -51,6 +51,7 @@ Navigation:
 * [The Eff monad, one monad to rule them all](https://vimeo.com/165927840) by Eric Torreborre
 * [Type-driven development in Idris](https://vimeo.com/128466883) by Edwin Brady
 * [Propositions as Types](https://www.youtube.com/watch?v=IOiZatlZtGU) by Philip Wadler
+* [Functional Programming is Terrible](https://www.youtube.com/watch?v=hzf3hTUKk8U) by Runar Bjarnason 
 
 ## Tutorials
 
