@@ -44,11 +44,11 @@ Navigation:
 * [Generics of a Higher Kind](https://adriaanm.github.io/files/higher.pdf) by Adriaan Moors, Frank Piessens and Martin Odersky
 
 ## Talks
-
-* [Constraints Liberate, Liberties Constrain](https://www.youtube.com/watch?v=GqmsQeSzMdw) by Runar Bjarnason 
+ 
 * [Free monads and free applicatives](https://vimeo.com/165928373) by Markus Hauck
-* [Roll your own Shapeless](https://vimeo.com/165837504) by Daniel Spiewak
 * [The Eff monad, one monad to rule them all](https://vimeo.com/165927840) by Eric Torreborre
+* [Constraints Liberate, Liberties Constrain](https://www.youtube.com/watch?v=GqmsQeSzMdw) by Runar Bjarnason
+* [Roll your own Shapeless](https://vimeo.com/165837504) by Daniel Spiewak
 * [Type-driven development in Idris](https://vimeo.com/128466883) by Edwin Brady
 * [Propositions as Types](https://www.youtube.com/watch?v=IOiZatlZtGU) by Philip Wadler
 * [Functional Programming is Terrible](https://www.youtube.com/watch?v=hzf3hTUKk8U) by Runar Bjarnason 
