@@ -9,6 +9,7 @@ Navigation:
 * [Libraries](#libraries)
 * [Papers](#papers)
 * [Talks](#talks)
+    * [Idris](#idris)
 * [Tutorials](#tutorials)
     * [Free Monads](#free-monads)
     * [Type Level Programming in Scala](#type-level-programming-in-scala)
@@ -51,9 +52,12 @@ Navigation:
 * [The Eff monad, one monad to rule them all](https://vimeo.com/165927840) by Eric Torreborre
 * [Constraints Liberate, Liberties Constrain](https://www.youtube.com/watch?v=GqmsQeSzMdw) by Runar Bjarnason
 * [Roll your own Shapeless](https://vimeo.com/165837504) by Daniel Spiewak
-* [Type-driven development in Idris](https://vimeo.com/128466883) by Edwin Brady
 * [Propositions as Types](https://www.youtube.com/watch?v=IOiZatlZtGU) by Philip Wadler
 * [Functional Programming is Terrible](https://www.youtube.com/watch?v=hzf3hTUKk8U) by Runar Bjarnason
+
+#### Idris
+
+* [Type-driven development in Idris](https://vimeo.com/128466883) by Edwin Brady
 * [Idris: Type safe printf](https://www.youtube.com/watch?v=fVBck2Zngjo) by Brian McKenna
 
 ## Tutorials
