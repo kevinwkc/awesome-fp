@@ -43,6 +43,7 @@ Navigation:
 * [Freer Monads, More Extensible Effects](http://okmij.org/ftp/Haskell/extensible/more.pdf) by Oleg Kiselyov
 * [Generics of a Higher Kind](https://adriaanm.github.io/files/higher.pdf) by Adriaan Moors, Frank Piessens and Martin Odersky
 * [Fun with type functions](http://research.microsoft.com/en-us/um/people/simonpj/papers/assoc-types/fun-with-type-funs/typefun.pdf) by Oleg Kiselyov, Simon Peyton Jones and Chung-chieh Shan
+* [Induction is not derivable in second order dependent type theory](http://www.cs.ru.nl/~herman/PUBS/IndNonder.ps.gz) by Herman Geuvers
 
 ## Talks
  
