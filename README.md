@@ -19,7 +19,7 @@ Navigation:
     * [A companion booklet to "Functional Programming in Scala"](http://blog.higher-order.com/assets/fpiscompanion.pdf) by Runar Bjarnason 
 * [Clojure for the Brave and True](http://www.braveclojure.com/clojure-for-the-brave-and-true) by Daniel Higginbotham
 * [Purely Functional Data Structures](https://www.amazon.com/Purely-Functional-Structures-Chris-Okasaki/dp/0521663504) by Chris Okasaki
-    * [New purely functional data structures published since 1998](http://cstheory.stackexchange.com/a/1550)
+    * [New purely functional data structures published since 1998](http://cstheory.stackexchange.com/a/1550) via Stack Exchange
 
 ## Courses
 
