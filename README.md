@@ -42,6 +42,7 @@ Navigation:
 * [Extensible Effects - An Alternative to Monad Transformers](http://okmij.org/ftp/Haskell/extensible/exteff.pdf) by Oleg Kiselyov
 * [Freer Monads, More Extensible Effects](http://okmij.org/ftp/Haskell/extensible/more.pdf) by Oleg Kiselyov
 * [Generics of a Higher Kind](https://adriaanm.github.io/files/higher.pdf) by Adriaan Moors, Frank Piessens and Martin Odersky
+* [Fun with type functions](http://research.microsoft.com/en-us/um/people/simonpj/papers/assoc-types/fun-with-type-funs/typefun.pdf) by Oleg Kiselyov, Simon Peyton Jones and Chung-chieh Shan
 
 ## Talks
  
@@ -51,7 +52,8 @@ Navigation:
 * [Roll your own Shapeless](https://vimeo.com/165837504) by Daniel Spiewak
 * [Type-driven development in Idris](https://vimeo.com/128466883) by Edwin Brady
 * [Propositions as Types](https://www.youtube.com/watch?v=IOiZatlZtGU) by Philip Wadler
-* [Functional Programming is Terrible](https://www.youtube.com/watch?v=hzf3hTUKk8U) by Runar Bjarnason 
+* [Functional Programming is Terrible](https://www.youtube.com/watch?v=hzf3hTUKk8U) by Runar Bjarnason
+* [Idris: Type safe printf](https://www.youtube.com/watch?v=fVBck2Zngjo) by Brian McKenna
 
 ## Tutorials
 
