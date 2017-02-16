@@ -21,6 +21,7 @@ Navigation:
 * [Clojure for the Brave and True](http://www.braveclojure.com/clojure-for-the-brave-and-true) by Daniel Higginbotham
 * [Purely Functional Data Structures](https://www.amazon.com/Purely-Functional-Structures-Chris-Okasaki/dp/0521663504) by Chris Okasaki
     * [New purely functional data structures published since 1998](http://cstheory.stackexchange.com/a/1550) via Stack Exchange
+* [Types and Programming Languages](https://www.amazon.com/Types-Programming-Languages-MIT-Press/dp/0262162091) by Benajmin Pierce.
 
 ## Courses
 
